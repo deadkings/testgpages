@@ -4,6 +4,8 @@ title: The Case of the Italian Olives
 
 This is the home page
 
+Where is my mind?
+
 ## Lets have fun
 
 >here is a quote
